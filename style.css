@@ -1,5 +1,5 @@
 body {
-  background-image: url("kantorgubernur.jpeg");
+  background-image: url("kantorgubernur.jpg");
   color: white;
   text-align: center;
   align-items: center;
@@ -63,3 +63,4 @@ button:hover{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
