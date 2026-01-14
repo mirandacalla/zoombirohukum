@@ -15,7 +15,7 @@ p{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  
+   width: 70%;
 }
 
 .hero1 {
@@ -63,7 +63,28 @@ button:hover{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
 .absen {
     font-size: 20px;
-    color: yellow;}
+    color: yellow;
+    padding: 7px;}
+
+.more {
+    display: flex;
+    justify-content: left;
+    text-align: left;}
+.daftarhadir {
+    flex: 2;
+    }
+.beritaacara {
+    margin: 0;
+}
+.beritaacara a {
+    text-decoration: none;
+}
+.ba1{
+    padding: 3px;
+    display: block;
+}
+
 
